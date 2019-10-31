@@ -1,0 +1,5 @@
+ifconfig
+
+sudo ifconfig eth0:1 192.168.211.126
+
+ping 192.168.211.126
